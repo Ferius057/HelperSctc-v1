@@ -1,1 +1,1 @@
-<a href="https://github.com/Ferius057"><img src="https://1.bp.blogspot.com/-9Yk8DfMB-zA/XRIZ1mIDICI/AAAAAAAAAs0/uJgMSdg7EN8kUpXFoPxqbZHf896FPeIwACEwYBhgL/s200/download%2Bdanico%2B-%2Bwami.png" style="max-width:100%;"></a>
+<a href="https://github.com/Ferius057"><img src="https://d3d-zona.ru/data/attachments/0/812-cc08ad01b57e3f852bb559a73be31e8d.jpg" style="max-width:100%;"></a>
