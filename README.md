@@ -1,1 +1,1 @@
-<a href="https://github.com/Ferius057"><img src="http://victorylds.ru/wp-content/uploads/Skachat-zel.png" alt="Github" data-canonical-src="https://img.shields.io/github/downloads/henrypp/memreduct/total.svg" style="max-width:100%;"></a>
+<a href="https://github.com/Ferius057"><img src="https://1.bp.blogspot.com/-9Yk8DfMB-zA/XRIZ1mIDICI/AAAAAAAAAs0/uJgMSdg7EN8kUpXFoPxqbZHf896FPeIwACEwYBhgL/s200/download%2Bdanico%2B-%2Bwami.png" style="max-width:100%;"></a>
