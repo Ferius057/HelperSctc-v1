@@ -1,4 +1,12 @@
-<h3>HELPER SCTC</h3>
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+<h1>HELPER SCTC</h1>
 <a href="https://github.com/Ferius057/HelperSctc-v1/releases" class="js-pjax-capture-input btn btn-sm BtnGroup-item" data-pjax="" data-hotkey="t"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DOWNLOAD</font></font></a>
 
 
