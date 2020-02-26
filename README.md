@@ -1,1 +1,1 @@
-<a href="https://github.com/Ferius057"><img src="https://img2.freepng.ru/20180329/ozw/kisspng-direct-download-link-button-software-cracking-download-now-button-5abd54c1d0fc97.758086741522357441856.jpg" alt="Github" data-canonical-src="https://img.shields.io/github/downloads/henrypp/memreduct/total.svg" style="max-width:100%;"></a>
+<a href="https://github.com/Ferius057"><img src="http://victorylds.ru/wp-content/uploads/Skachat-zel.png" alt="Github" data-canonical-src="https://img.shields.io/github/downloads/henrypp/memreduct/total.svg" style="max-width:100%;"></a>
