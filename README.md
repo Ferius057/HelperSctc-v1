@@ -3,7 +3,7 @@
 <h2>Требования:<br /><h4>Иметь Java</h4></h2>
 <hr />
 
-<a href='https://github.com/Ferius057/HelperSctc-v1' title=''><img style="width:100%" src='https://hostingkartinok.com/show-image.php?id=43ab3b5872e7000cd6bf7ef567848115' alt=''  /></a>
+<a href='https://github.com/Ferius057/HelperSctc-v1' title=''><img style="width:100%" src='https://s8.hostingkartinok.com/uploads/thumbs/2020/03/43ab3b5872e7000cd6bf7ef567848115.png' alt=''  /></a>
 
 
 <h2>Описание:</h2>
