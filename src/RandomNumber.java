@@ -40,7 +40,7 @@ public class RandomNumber extends Menu {
             float b = Float.parseFloat(input2.getText());
             long random_number1 = (long) (a + (long) (Math.random() * b));
             if (a > b) {
-                message += "Число \"От\" не может быть больше \"До\"";
+                message += "Число \"От\" не может быть больше чем число \"До\"";
                 JOptionPane.showMessageDialog(null, message, "Ответ", JOptionPane.PLAIN_MESSAGE);
                 return ;
             }
